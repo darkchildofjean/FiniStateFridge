@@ -1,0 +1,16 @@
+#Acomment - Cole Burnham
+roomTemp = 70
+fridgeUpperTemp = 41
+fridgeDesiredTemp = 39
+fridgeLowerTemp = 37
+fridgeHeatRateDoorOpen = 1
+fridgeHeatRateDoorClosed = 30
+freezerUpperTemp = 0
+freezerDesiredTemp = -4
+freezerLowerTemp = -9
+freezerHeatRateDoorOpen = 1
+freezerHeatRateDoorClosed = 30
+fridgeCompressorStartDiff = 2
+freezerCompressorStartDiff = 1
+fridgeCoolRate = 20
+freezerCoolRate = 30
